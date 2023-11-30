@@ -68,7 +68,7 @@ const config = {
         title: 'Site do Guga',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/sxx5bcoq5us71.png',
         },
         items: [
           {
