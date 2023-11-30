@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Site de exemplo',
   tagline: 'Disciplina de ADC',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/sxx5bcoq5us71.png',
 
   // Set the production url of your site here
   url: 'https://github.com',
