@@ -11,7 +11,7 @@ type FeatureItem = {
 const FeatureList: FeatureItem[] = [
   {
     title: 'gustavo nao sabe mais',
-    Svg: require('@site/static/img/sxx5bcoq5us71.png').default,
+    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
         Docusaurus was designed from the ground up to be easily installed and
