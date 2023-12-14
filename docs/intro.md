@@ -4,22 +4,22 @@ sidebar_position: 1
 
 # Tutorial Intro
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Let's discover **aprende a usar isto ya**.
 
-## Getting Started
+## inicio do começo
 
-Get started by **creating a new site**.
+Get started by **fazer um site bem bom**.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+Or **entra aqui para vbucks gratis** with **[docusaurus.new](https://docusaurus.new)**.
 
 ### What you'll need
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
+- [damas (nao tens damas)](https://nodejs.org/en/download/) version 16.14 or above:
   - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
 
-## Generate a new site
+## fazendo pequeno almosso
 
-Generate a new Docusaurus site using the **classic template**.
+começa por meter leite nos cereais **chocapic**.
 
 The classic template will automatically be added to your project after you run the command:
 
